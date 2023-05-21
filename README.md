@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YinBo0927&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YinBo0927&theme=dark&layout=compact)
 
 <!--
 **YinBo0927/YinBo0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
