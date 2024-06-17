@@ -28,7 +28,7 @@
  
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/YinBo0927"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" /></a>
+<a href="https://github.com/YinBo0927"><img src="https://img.shields.io/badge/GitHub-YinBo0927-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/397073252"><img src="https://img.shields.io/badge/哔哩哔哩-YinBo-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-1337879832-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
